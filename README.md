@@ -6,7 +6,7 @@ L'objectif est de manipuler les données d'une session.
 
 ## Énoncé
 
-Les dépendances sont préciser dans le `package.json`, vous n'avez qu'a installer les dépendances et lancez le serveur.
+Les dépendances sont précisées dans le `package.json`, vous n'avez quàa installer les dépendances et lancez le serveur.
 
 ```bash
 npm install
